@@ -111,7 +111,7 @@ int main()
 //soham
 //entc B1
 //23070123084
-//experiment 8
+//experiment 8A
 #include <iostream>
 using namespace std;
 int main() 
@@ -169,7 +169,7 @@ int main()
 //soham
 //entc B1
 //23070123084
-//experiment 8
+//experiment 8B
 #include <iostream>
 using namespace std;
 int main() 
@@ -227,7 +227,7 @@ int main()
 //soham
 //entc B1
 //23070123084
-//experiment 8
+//experiment 8C
 // Matrix multiplication 
 #include <iostream>
 using namespace std;
@@ -301,7 +301,7 @@ int main() {
 //soham
 //entc B1
 //23070123084
-//experiment 8
+//experiment 8D
 //TRANSPOSE OF MATRIX 
 #include <iostream>
 using namespace std;
@@ -349,7 +349,7 @@ int main() {
 //soham
 //entc B1
 //23070123084
-//experiment 8
+//experiment 8E
 //DIAGONAL ADDITION 
 #include <iostream>
 using namespace std;
