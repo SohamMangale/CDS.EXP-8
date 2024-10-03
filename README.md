@@ -399,10 +399,12 @@ return 0;
 
 
 ### 5.*Transpose of a matrix -*
-![Screenshot 2024-08-21 012244](https://github.com/user-attachments/assets/3926da44-3a25-44b9-9e18-3ee3feeffe28)
+![image](https://github.com/user-attachments/assets/c29f3858-e06e-4529-8875-746a8d54a097)
+
 
 ### 6. *Diagnol addition of a matrix -*
-![Screenshot 2024-08-21 012317](https://github.com/user-attachments/assets/b1f51561-c508-4186-910f-290b32492355)
+![image](https://github.com/user-attachments/assets/7273459d-d30e-4aa6-a2f1-db5d8a886e14)
+
 
 ## Conclusion -
 This experiment provides valuable insight into fundamental concepts in programming, particularly in handling data structures that require multi-dimensional organization. Through this process, we gain a deeper understanding of how to: <br>
