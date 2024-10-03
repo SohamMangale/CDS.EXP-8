@@ -383,16 +383,20 @@ return 0;
 
 ## Output -
 ### 1.*Entering elements of matrix -*
-![Screenshot 2024-08-21 011748](https://github.com/user-attachments/assets/9f4a6edc-39e5-4c7e-b6a3-22779db2d19b)
+![image](https://github.com/user-attachments/assets/40a60a98-042c-43ba-9068-d05ea9cb644c)
+
 
 ### 2.*Addition of two matrices -*
-![Screenshot 2024-08-21 011910](https://github.com/user-attachments/assets/bf7c36d7-f6d8-4d2f-b8c0-83ffaea3a160)
+![image](https://github.com/user-attachments/assets/24df5bf0-92e2-4638-a2ee-aa6c8b321d7a)
+
 
 ### 3.*Subtraction of two matrices -*
-![Screenshot 2024-08-21 012036](https://github.com/user-attachments/assets/3cc80b95-9060-43db-8463-5bd7dd6603f8)
+![image](https://github.com/user-attachments/assets/11841bfa-2ddd-4c0f-a6c1-87d33bb943a0)
+
 
 ### 4.*Multiplication of two matrices -*
-![Screenshot 2024-08-21 012201](https://github.com/user-attachments/assets/a1f5e716-f137-4a54-ba1e-43f480442fc8)
+![image](https://github.com/user-attachments/assets/4f1c7d1e-3a14-4e3e-aafa-6cddd51b088a)
+
 
 ### 5.*Transpose of a matrix -*
 ![Screenshot 2024-08-21 012244](https://github.com/user-attachments/assets/3926da44-3a25-44b9-9e18-3ee3feeffe28)
